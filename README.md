@@ -3,7 +3,7 @@
 
 
 - 🔭 Eu estou estudando na Labenu, no curso de Desenvolvedor Web Full Stack
-- 🌱 Estou estudando linguagem de programação, JavaScript, Html, CSS
+- 🌱 Estou estudando linguagem de programação, JavaScript, Html, CSS, React e React Avançado
 - Estou iniciando na área de tecnologia, não sei tudo, mas posso aprender tudo!
 
 <div align="center">
